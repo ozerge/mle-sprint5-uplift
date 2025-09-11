@@ -169,7 +169,7 @@ cython_debug/
 *.par
 *.parquet
 *.pickle
-*.csv
+#*.csv
 *.npz
 
 cb_model
